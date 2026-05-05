@@ -1,28 +1,43 @@
-<h1 align="center">Pablo Nicholas </h1>
+<h1 align="center">Hi, I'm Pablo Nicholas 👋</h1>
 <p align="center">
-Front-end Developer | React | Next.js | TypeScript | Python | Django | GoLang
+  <strong>Senior Frontend Engineer | Cybersecurity Researcher | Information Security Student</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
 </p>
 
 ---
 
- **Atualmente focado em:**
-- 🧹 Front-end com Clean Architecture e boas práticas
-- 🏗️ Integração back-end com Django REST e GoLang
-- 🚀 Projetos completos com Next.js 14, SWR e TailwindCSS
+### 🛡️ Cybersecurity & Engineering Focus
+Currently bridging the gap between high-performance Frontend development and robust Web Security.
+
+-  **Postgrad:** Information Security & Forensic Analysis (UNCISAL).
+-  **Focus:** Web Application Security (OWASP), Forensic Analysis, and LGPD Compliance.
+-  **Architecture:** Frontend with Clean Architecture, SWR, and scalable Design Systems.
+
+
 
 ---
 
-📌 **Projetos em Destaque:**
 
-- [full-stack-nextjs-with-django](https://github.com/pablons2/full-stack-nextjs-with-django) – Aplicação com arquitetura limpa, Next.js 14, Django API.
-- [blog-evangeliza-tech](https://github.com/pablons2/blog-evangeliza-tech) – Blog técnico sobre tecnologias estudadas.
-- [responsive-sidebar](https://github.com/pablons2/responsive-sidebar) – Sidebar responsiva com dropdown usando puro JS.
-
----
-
- **Sobre mim**:
-Desenvolvedor Front-end apaixonado por criar interfaces intuitivas, com experiência sólida em projetos reais, sempre buscando evolução contínua nas boas práticas de código.
-
- **Contato**: www.pablon.com.br
+###  Tech Stack & Tools
+- **Frontend:** React, Next.js, TailwindCSS, TypeScript, Cypress, jest, vitest.
+- **Backend:** Python (Django), GoLang.
+- **Security:** OWASP ZAP, Autopsy, Forensic Analysis.
+- **OS/Env:** Linux (Mint/Ubuntu/kali), btop, Windsurf, Claude Code, cursor.
 
 ---
+
+###  Let's Connect
+- **Portfolio:** [pablon.com.br](http://www.pablon.com.br)
+- **Personal Branding:** Art&Café
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablons2&show_icons=true&theme=radical" alt="Pablo's GitHub Stats" />
+</p>
